@@ -39,6 +39,6 @@ git branch
 ```
 
 Checklist
-[x] Write intro
-[x] Take screenshots / deliverables
-[ ] Turn in Lab
+- [x] Write intro
+- [x] Take screenshots / deliverables
+- [ ] Turn in Lab
