@@ -17,6 +17,14 @@ You can learn about Cinnamoroll [HERE](https://www.sanrio.com/collections/cinnam
 [Get the image here](cinnamoroll.jpeg)
 
 
+## My Hobbies
+
+Some of my hobbies are
+- watching youtube
+- playing the piano
+- taking pictures of food
+
+
 ## The Website
 
 A popular quote for CS students at UCSD is:
@@ -30,3 +38,7 @@ git checkout
 git branch
 ```
 
+Checklist
+[x] Write intro
+[x] Take screenshots / deliverables
+[ ] Turn in Lab
