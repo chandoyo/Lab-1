@@ -38,7 +38,8 @@ git checkout
 git branch
 ```
 
-Checklist
+
+###### Checklist
 - [x] Write intro
 - [x] Take screenshots / deliverables
 - [ ] Turn in Lab
