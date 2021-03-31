@@ -13,7 +13,7 @@ I am looking forward to learning about **software engineering** in *CSE 110*
 #### My favorite Sanrio character is Cinnamoroll
 
 You can learn about Cinnamoroll [HERE](https://www.sanrio.com/collections/cinnamoroll).
-[Get the image here](Lab-1/cinnamoroll.jpeg)
+[Get the image here](cinnamoroll.jpeg)
 
 
 ## The Website
