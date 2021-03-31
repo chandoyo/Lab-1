@@ -2,4 +2,7 @@
 CSE 110 Lab 1
 
 Claudia's User Page
-I guess java is my favorite programming language
+
+Java is the first programming language I learned so it is my favorite.
+
+Link to my website: 
