@@ -2,10 +2,10 @@
 
 ## CSE 110 Claudia Handoyo
 
-I am a Math-CS major
+I am a Math-CS major at UCSD
 
 <img src="cinnamoroll.jpeg"><br>
 
-###### My favorite Sanrio character is Cinnamoroll
+#### My favorite Sanrio character is Cinnamoroll
 
 You can learn about Cinnamoroll [HERE](https://www.sanrio.com/collections/cinnamoroll).
