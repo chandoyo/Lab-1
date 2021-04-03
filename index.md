@@ -2,7 +2,7 @@
 
 ## Intro 
 
-I am a Math-CS major at UCSD. I am in my ~~second~~ third year.
+I am a Math-CS major at UCSD. I am in my ~~second~~ third year. I learned about cs and programming for the first time on the spring quarter of my first year in UCSD.
 I am looking forward to learning about **software engineering** in *CSE 110*
 
 
